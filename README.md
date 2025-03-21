@@ -1,18 +1,19 @@
-## Hi there 👋
+Hi there! I'm Eddie 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+🚀 Full-Stack Developer | AI & Web3 Enthusiast | UI/UX Designer🔹 Crafting intelligent & scalable web solutions with React, Next.js, Node.js, and AI🔹 Passionate about crypto, decentralization, and futuristic web experiences🔹 Turning ideas into high-performance products 💡⚡
 
-<!--
-**princedigital01/princedigital01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+🌟 Featured Projects:
+
+🔹 BookEase – A SaaS platform for managing room bookings and time ⏳🏨🔹 Habit Tracker – A gamified habit tracker for daily motivation 🚀📊
