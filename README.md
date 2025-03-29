@@ -1,8 +1,8 @@
 Hi there! I'm Eddie 👋
 
-🚀 Full-Stack Developer | AI & Web3 Enthusiast | UI/UX Designer
-🔹 Crafting intelligent & scalable web solutions with React, Next.js, Node.js, and AI
-🔹 Passionate about crypto, decentralization, and futuristic web experiences
+🚀 Full-Stack Developer | AI & Web3 Enthusiast | UI/UX Designer<br>
+🔹 Crafting intelligent & scalable web solutions with React, Next.js, Node.js, and AI<br>
+🔹 Passionate about crypto, decentralization, and futuristic web experiences<br>
 🔹 Turning ideas into high-performance products 💡⚡
 
 🛠️ Tech Stack:
