@@ -8,5 +8,6 @@ Hi there! I'm Eddie 👋
 🛠️ Tech Stack:
 🌟 Featured Projects:
 
-🔹 BookEase – A SaaS platform for managing room bookings and time ⏳🏨🔹 Habit Tracker – A gamified habit tracker for daily motivation 🚀📊
+🔹 BookEase – A SaaS platform for managing room bookings and time ⏳🏨<br>
+🔹 Habit Tracker – A gamified habit tracker for daily motivation 🚀📊<br>
 🔹 TelegramAi- A telegram bot with Ai integrated into it
